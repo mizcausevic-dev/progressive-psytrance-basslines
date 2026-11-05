@@ -1,0 +1,26 @@
+{
+  "title": "Progressive Psytrance Basslines",
+  "study": "z2601",
+  "bpm": 138,
+  "source_audio": "preview/progressive-psytrance-basslines-simple-synth-preview.mp3",
+  "source_audio_sha256": "00b26aedaf55b4928ed7652101362276b94324ad076f9f081e6c18471da9e42c",
+  "source_midi": "midi/z2601-progressive-psytrance-basslines-opening/z2601-progressive-psytrance-basslines-opening-combined.mid",
+  "source_midi_sha256": "8530e59950c2871465cd634e4cda7526e57b18a1fb5acb05acf841f8b50393fa",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0793037615ffb8bd9546d4faafceec65513498f5a186586d089760025721d69e",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "377759ef4a589b77c0caee9844a217105101572184e10e8966675ac0df3e3d07",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "9beb7e51311cfd178655a7a254315b97185b5ef451e64d10bd78782faa7dc968",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

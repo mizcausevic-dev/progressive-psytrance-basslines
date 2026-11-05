@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:56.511421+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2601-progressive-psytrance-basslines-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c36997abab74b5a2412015c5ca1c1c598e57bf9eb367927921f9d1299d292a97",
+      "errors": []
+    },
+    {
+      "path": "midi/z2601-progressive-psytrance-basslines-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "61f0423018f628414fe397e5322104e0d0ce3bd0c8d2a54f76e5610ed7329978",
+      "errors": []
+    },
+    {
+      "path": "midi/z2601-progressive-psytrance-basslines-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2601-progressive-psytrance-basslines-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "6e1be9ffec741dd2dc7ed604aa93721a14e484fe17f16a485d8fdd7b9169c587",
+      "errors": []
+    },
+    {
+      "path": "midi/z2601-progressive-psytrance-basslines-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "c03f73b723ea83da43441d96bc31624540c8783407aad1d31cec78d0d1614871",
+      "errors": []
+    },
+    {
+      "path": "midi/z2601-progressive-psytrance-basslines-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ddc024c1b9280a75b71554c0245f9a9f5b5a2fe3ae81a807f56b5cf80422c43b",
+      "errors": []
+    },
+    {
+      "path": "midi/z2601-progressive-psytrance-basslines-opening/z2601-progressive-psytrance-basslines-opening-combined.mid",
+      "bytes": 6062,
+      "sha256": "8530e59950c2871465cd634e4cda7526e57b18a1fb5acb05acf841f8b50393fa",
+      "errors": []
+    },
+    {
+      "path": "midi/z2602-progressive-psytrance-basslines-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "cc95d35ccc236bb96768e1044292bf86570f7ef62fc6ce6fbae09be0201c1f8d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2602-progressive-psytrance-basslines-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "97cf6f917b4ba77ee1f362a717817930e66a9906fb0fbe354f474878c7732242",
+      "errors": []
+    },
+    {
+      "path": "midi/z2602-progressive-psytrance-basslines-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2602-progressive-psytrance-basslines-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "60aa857a95e5d075fd691aa9985280c2b89cf1283cf4f3b9891bf9cb402c1dc5",
+      "errors": []
+    },
+    {
+      "path": "midi/z2602-progressive-psytrance-basslines-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "6f27f4771f90c845919d6ad3cf633e6fa8f801247be0bee72ae0b77497cffa36",
+      "errors": []
+    },
+    {
+      "path": "midi/z2602-progressive-psytrance-basslines-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "45abef81f7e825eceab0c98fdb1595d9930c555d7c3cd38ecb59cc3351d2c984",
+      "errors": []
+    },
+    {
+      "path": "midi/z2602-progressive-psytrance-basslines-variation/z2602-progressive-psytrance-basslines-variation-combined.mid",
+      "bytes": 6062,
+      "sha256": "719dbb8a0d17f65418cfa7c52d0da4e3f35ce80d3cf8ed4c36628651ac2eddf8",
+      "errors": []
+    },
+    {
+      "path": "midi/z2603-progressive-psytrance-basslines-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "3c928aefeff82289b3e63aa40a8dcfc7b7f24ba8fedd69d01b079ed25166e90a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2603-progressive-psytrance-basslines-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b8418a0191b1e9882d2ff5eb8c1b5438f90a552c0d094f1a8c384ebeec699d44",
+      "errors": []
+    },
+    {
+      "path": "midi/z2603-progressive-psytrance-basslines-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2603-progressive-psytrance-basslines-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "de5436e35f92c14c75c8bfd256e9699295a59373317db8eaea57196bedc5dc2c",
+      "errors": []
+    },
+    {
+      "path": "midi/z2603-progressive-psytrance-basslines-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "8b37db4bc394410da10fdd47ac5c2c64dce7adeb7d77164f2f917b0b21d322d3",
+      "errors": []
+    },
+    {
+      "path": "midi/z2603-progressive-psytrance-basslines-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0e56ca37c7d8d9511dedca90f5595fc6fb73cef55195c76bd83c56bbac205b73",
+      "errors": []
+    },
+    {
+      "path": "midi/z2603-progressive-psytrance-basslines-contrast/z2603-progressive-psytrance-basslines-contrast-combined.mid",
+      "bytes": 6028,
+      "sha256": "1e250227a642562735caefdf7a5be75b20f230736d4d63a096f5ebb66b706622",
+      "errors": []
+    },
+    {
+      "path": "midi/z2604-progressive-psytrance-basslines-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "3e111ed9cf2fbff4c459e3751720e049ef5e3b8046fe11bb24803fefff130809",
+      "errors": []
+    },
+    {
+      "path": "midi/z2604-progressive-psytrance-basslines-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "84d5e9d9d186d447469b917b8ada717d53b87058a078d924713dff07be040183",
+      "errors": []
+    },
+    {
+      "path": "midi/z2604-progressive-psytrance-basslines-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2604-progressive-psytrance-basslines-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "d11da2be75d24316a5db53b8ada1c1b4f4086cde6e4ab78e43fe397de754a2e9",
+      "errors": []
+    },
+    {
+      "path": "midi/z2604-progressive-psytrance-basslines-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "be867937106f1f7d4cb926ac887b7eba22e36ff38e1d0f5c4c2effeef3f492f7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2604-progressive-psytrance-basslines-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9c98669e5bbd5a450cda112072d0d6325aac4088a0c4414427e1e8c4cf7f08c4",
+      "errors": []
+    },
+    {
+      "path": "midi/z2604-progressive-psytrance-basslines-return/z2604-progressive-psytrance-basslines-return-combined.mid",
+      "bytes": 6028,
+      "sha256": "0fc041ad3cbd25261180544c03827ca56b5b4c47fd2e9f43916f777adbb6e441",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/progressive-psytrance-basslines-simple-synth-preview.mp3",
+  "preview_sha256": "00b26aedaf55b4928ed7652101362276b94324ad076f9f081e6c18471da9e42c",
+  "source_midi_path": "midi/z2601-progressive-psytrance-basslines-opening/z2601-progressive-psytrance-basslines-opening-combined.mid",
+  "source_midi_sha256": "8530e59950c2871465cd634e4cda7526e57b18a1fb5acb05acf841f8b50393fa",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z2601",
+    "start_seconds": 0,
+    "end_seconds": 55.652
+  },
+  "measurement": {
+    "sample_peak": 0.124646,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
