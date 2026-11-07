@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/progressive-psytrance-basslines-midi.zip",
-      "bytes": 32141,
-      "sha256": "f21766a4fa538bc08cfa29a52cfb07e4759386b33fd441ac61d708422f7c1ade"
+      "bytes": 33128,
+      "sha256": "853ac6f0bb05992b2597115b9833c339d2f8c35497ee599848076e39c93b82c5"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10188,
-      "sha256": "80054b21a69b837c806ffc09bee85607e08f7a161f566452bd44277571638829"
+      "bytes": 10378,
+      "sha256": "aa218029eafeec77b6c749b2289a9694576d4c86d5d36f0ca570aa8170b848a2"
     },
     {
       "path": "midi/z2601-progressive-psytrance-basslines-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "0fc041ad3cbd25261180544c03827ca56b5b4c47fd2e9f43916f777adbb6e441"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1203,
       "sha256": "3bb46d7ec4041445d5aefa9ebcfe096bbea528b62fd420649f06afe7d63a250c"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4050,
-      "sha256": "cace51d23d87b89219277b68d4a0ed00466d7a1bf532ee7bbaefbcdcc0abc513"
+      "bytes": 4165,
+      "sha256": "80c8e48796f8587065badde42957a8b8640ad9643e170483559d155c3be885f8"
     },
     {
       "path": "social/instagram/caption.txt",
